@@ -1,0 +1,23 @@
+{
+  "name": "ingrid-get-s3",
+  "version": "1.0.0",
+  "description": "Serverless Lambda to get s3 items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lloydrhodes87/ingrid-get-s3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lloydrhodes87/ingrid-get-s3/issues"
+  },
+  "homepage": "https://github.com/lloydrhodes87/ingrid-get-s3#readme",
+  "dependencies": {
+    "aws-sdk": "^2.686.0",
+    "nodemailer": "^6.4.10"
+  }
+}
