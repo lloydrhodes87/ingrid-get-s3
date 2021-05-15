@@ -18,6 +18,6 @@
   "homepage": "https://github.com/lloydrhodes87/ingrid-get-s3#readme",
   "dependencies": {
     "aws-sdk": "^2.686.0",
-    "nodemailer": "^6.4.10"
+    "nodemailer": "^6.4.16"
   }
 }
